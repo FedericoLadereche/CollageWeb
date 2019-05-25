@@ -168,10 +168,10 @@ span.color2{
 /*-- //header --*/
 /*-- banner --*/
 .services-grid-right-grid1,.services-grid-right-grid2,.services-grid-right-grid3{
-	min-height:460px;
+	min-height:600px;
 }
 .services-grid-right-grid1{
-	background:url(../images/6.jpg) no-repeat 0px 0px;
+	background:url(../images/Collage_front.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -179,16 +179,16 @@ span.color2{
 	-ms-background-size:cover;
 }
 .services-grid-right-grid2{
-	background:url(../images/5.jpg) no-repeat 0px 0px;
-	background-size:cover;
+	background:url(../images/Collage_wall_painting.jpg) no-repeat 0px 0px;
+	background-size:contain;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
 }
 .services-grid-right-grid3{
-	background:url(../images/7.jpg) no-repeat 0px 0px;
-	background-size:cover;
+	background:url(../images/Jardín_Collage_backyard.jpg) no-repeat 0px 0px;
+	background-size:contain;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
