@@ -3,7 +3,7 @@ body{
 	padding:0;
 }
 #Choco_overlay{
-	background:#45a3d6 !important;
+	background:#00A65B !important;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -28,13 +28,13 @@ body{
 }
 #Choco_left_arrow{
 	float:left;
-	background-image:url(../images/left.png)!important;
+	background-image:url(../images/previous-button.png)!important;
 	background-position:12%;
 	left:-20%;
 }
 #Choco_right_arrow{
 	float:right;
-	background-image:url(../images/right.png)!important;
+	background-image:url(../images/next-button.png)!important;
 	background-position:88%;
 	left:20%;
 }

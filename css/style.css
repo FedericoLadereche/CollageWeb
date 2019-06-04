@@ -1520,7 +1520,7 @@ h2.typoh2{
 }
 .da-thumbs li a div {
   position: absolute;
-  background:rgba(69, 163, 214, 0.64);
+  background:rgba(61, 43, 153, 0.64);
   width: 100%;
   height: 100%;
 }
@@ -1529,17 +1529,17 @@ h2.typoh2{
   padding: 10px 0;
   margin: 11px 20px 20px 20px;
   font-weight: normal;
-  text-transform: capitalize;
-  color: rgba(255,255,255,0.9);
+  /*text-transform: capitalize;*/
+  color:rgba(0, 166, 91, 0.9);
   text-align: center;
   font-size: 1.1em;
 }
 .da-thumbs li a div  h5 {
-  color: #FFF;
+  color: #00A65B;
   font-size: 1.5em;
   margin: 3.5em 0 0 0;
   text-align: center;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 /*-- //gallery --*/
 /*-----start-responsive-design------*/
