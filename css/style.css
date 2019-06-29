@@ -636,8 +636,8 @@ span.color2{
     border-radius: 100%;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
-    width: 4em;
-    height: 4em;
+    width: 4.9em;
+    height: 4.9em;
     color: #fff;
     line-height: 1em;
     text-align: center;
@@ -657,16 +657,16 @@ span.color2{
 	background:url(../images/img-sp.png) no-repeat 4px -251px #3D2B99;
 }
 .footer-copy ul li a.p span{
-	background:url(../images/img-sp.png) no-repeat -49px -251px #45a3d6;
+	background:url(../images/instagram-green.png);
 }
 .footer-copy ul li a.p:hover span{
-	background:url(../images/img-sp.png) no-repeat -49px -251px #FF5A56;
+	background:url(../images/instagram-blue.png);
 }
 .footer-copy ul li a.facebook span{
-	background:url(../images/img-sp.png) no-repeat -92px -252px #00A65B;
+	background:url(../images/facebook-green.png) no-repeat;
 }
 .footer-copy ul li a.facebook:hover span{
-	background:url(../images/img-sp.png) no-repeat -92px -252px #3D2B99;
+	background:url(../images/facebook-blue.png) no-repeat;
 }
 .footer-copy ul li a.dribble span{
 	background:url(../images/img-sp.png) no-repeat -132px -254px #45a3d6;
@@ -2450,16 +2450,16 @@ h2.typoh2{
 		background: url(../images/img-sp.png) no-repeat 2px -253px #FF5A56;
 	}
 	.footer-copy ul li a.p span {
-		background: url(../images/img-sp.png) no-repeat -51px -253px #45a3d6;
+		background: url(../images/instagram-green.png);
 	}
 	.footer-copy ul li a.p:hover span {
-		background: url(../images/img-sp.png) no-repeat -51px -253px #FF5A56;
+		background: url(../images/instagram-blue.png);
 	}
 	.footer-copy ul li a.facebook span {
-		background: url(../images/img-sp.png) no-repeat -94px -253px #45a3d6;
+		background: url(../images/facebook-green.png) no-repeat;
 	}
 	.footer-copy ul li a.facebook:hover span {
-		background: url(../images/img-sp.png) no-repeat -94px -253px #FF5A56;
+		background: url(../images/facebook-blue.png) no-repeat;
 	}
 	.footer-copy ul li a.dribble span {
 		background: url(../images/img-sp.png) no-repeat -134px -256px #45a3d6;
