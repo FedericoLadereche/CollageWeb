@@ -409,7 +409,7 @@ span.color2{
 	list-style-type:none;
 	margin-bottom:1em;
 }
-#loadMore,#showLess {
+#loadMore,#showLess, #backtogallery {
 	display: inline-block;
     cursor: pointer;
     transition: 0.5s all ease;
