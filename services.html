@@ -18,6 +18,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/aos.css" rel="stylesheet" type="text/css" media="all" />
 <!-- js -->
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 <script src="js/jquery-1.11.1.min.js"></script>
@@ -32,6 +33,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		$(".scroll").click(function(event){		
 			event.preventDefault();
 			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+			AOS.init();
 		});
 	});
 </script>
@@ -98,9 +100,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="banner-left1-grid">
 									<img src="images/1.jpg" alt=" " class="img-responsive" />
 									<div class="banner-info">
-										<a class="read-more" href="single.html"><i></i></a>
+										<a class="read-more" href=""><i></i></a>
 										<h3>
-											<a href="single.html">
+											<a href="">
 												Kids Playing
 											</a>
 										</h3>
@@ -113,9 +115,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="banner-left1-grid">
 									<img src="images/4.jpg" alt=" " class="img-responsive" />
 									<div class="banner-info">
-										<a class="read-more" href="single.html"><i></i></a>
+										<a class="read-more" href=""><i></i></a>
 										<h3>
-											<a href="single.html">
+											<a href="">
 												Kids Playing
 											</a>
 										</h3>
@@ -130,9 +132,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="banner-left1-grid">
 									<img src="images/3.jpg" alt=" " class="img-responsive" />
 									<div class="banner-info">
-										<a class="read-more" href="single.html"><i></i></a>
+										<a class="read-more" href=""><i></i></a>
 										<h3>
-											<a href="single.html">
+											<a href="">
 												Kids Playing
 											</a>
 										</h3>
@@ -145,9 +147,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="banner-left1-grid">
 									<img src="images/2.jpg" alt=" " class="img-responsive" />
 									<div class="banner-info">
-										<a class="read-more" href="single.html"><i></i></a>
+										<a class="read-more" href=""><i></i></a>
 										<h3>
-											<a href="single.html">
+											<a href="">
 												Kids studying
 											</a>
 										</h3>
@@ -204,10 +206,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="services">
 					<h2>Servicios</h2>
 					<div class="services-grids">
-						<div class="col-md-4 services-grid-left">
+						<div class="col-md-4 services-grid-left" data-aos="zoom-in-right" data-aos-delay="1500">
 							<img src="images/Collage_front resized.jpg" alt=" " class="img-responsive" />
 						</div>
-						<div class="col-md-8 services-grid-right">
+						<div class="col-md-8 services-grid-right" data-aos="zoom-in-right" data-aos-delay="1500">
 							<h3>Propuesta de <span>funcionamiento</span></h3>
 							<p>
 								En Jardín Collage las familias pueden optar siempre que sea necesario y previamente coordinado 
@@ -224,10 +226,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="clearfix"> </div>
 					</div>
 					<div class="services-grids">
-							<div class="col-md-4 services-grid-left">
+							<div class="col-md-4 services-grid-left" data-aos="zoom-in-left" data-aos-delay="1500">
 								<img src="images/Jardín Collage Acompañamiento desarrollo/Acompañamiento desarrollo.jpg" alt=" " class="img-responsive" />
 							</div>
-							<div class="col-md-8 services-grid-right">
+							<div class="col-md-8 services-grid-right" data-aos="zoom-in-left" data-aos-delay="1500">
 								<h3>Propuesta <span>educativa</span></h3>
 								<p>
 									En Collage cuidamos la escencia de cada niño, lo que cada uno trae, potenciando sus características 
@@ -248,38 +250,38 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<!-- <div class="services-grids1">
 						<div class="col-md-3 services-grids1-grid">
 							<img src="images/8.jpg" alt=" " class="img-responsive" />
-							<h4><a href="single.html">Nemo enim volup</a></h4>
+							<h4><a href="">Nemo enim volup</a></h4>
 							<p>But I must explain to you how all this mistaken idea of 
 								denouncing pleasure and praising pain was born.</p>
 							<div class="more">
-								<a href="single.html" class="hvr-rectangle-out">Read More...</a>
+								<a href="" class="hvr-rectangle-out">Read More...</a>
 							</div>
 						</div>
 						<div class="col-md-4 services-grids1-grid">
 							<img src="images/Nidos y pichones.jpg" alt=" " class="img-responsive" />
-							<h4><a href="single.html">quasi archite</a></h4>
+							<h4><a href="">quasi archite</a></h4>
 							<p>But I must explain to you how all this mistaken idea of 
 								denouncing pleasure and praising pain was born.</p>
 							<div class="more">
-								<a href="single.html" class="hvr-rectangle-out">Read More...</a>
+								<a href="" class="hvr-rectangle-out">Read More...</a>
 							</div>
 						</div>
 						<div class="col-md-4 services-grids1-grid">
 							<img src="images/Ranitas.jpg" alt=" " class="img-responsive" />
-							<h4><a href="single.html">quia voluptas sit</a></h4>
+							<h4><a href="">quia voluptas sit</a></h4>
 							<p>But I must explain to you how all this mistaken idea of 
 								denouncing pleasure and praising pain was born.</p>
 							<div class="more">
-								<a href="single.html" class="hvr-rectangle-out">Read More...</a>
+								<a href="" class="hvr-rectangle-out">Read More...</a>
 							</div>
 						</div>
 						<div class="col-md-4 services-grids1-grid">
 							<img src="images/Conejos.jpg" alt=" " class="img-responsive" />
-							<h4><a href="single.html">totam rem aperiam</a></h4>
+							<h4><a href="">totam rem aperiam</a></h4>
 							<p>But I must explain to you how all this mistaken idea of 
 								denouncing pleasure and praising pain was born.</p>
 							<div class="more">
-								<a href="single.html" class="hvr-rectangle-out">Read More...</a>
+								<a href="" class="hvr-rectangle-out">Read More...</a>
 							</div>
 						</div>
 						<div class="clearfix"> </div>
@@ -443,5 +445,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- for bootstrap working -->
 	<script src="js/bootstrap.js"></script>
 <!-- //for bootstrap working -->
+<!-- //script for AOS working -->
+<script src="js/aos.js"></script>
+<script>
+		document.addEventListener('DOMContentLoaded', function() {
+  		AOS.init();});
+</script>
+<!-- //script for AOS working -->
 </body>
 </html>

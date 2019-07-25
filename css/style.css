@@ -854,7 +854,7 @@ span.color2{
     bottom: 0%;
     left: 0%;
     width: 100%;
-    background: rgba(69, 163, 214, 0.93);
+    background:#00A65B;
     padding: .5em;
 }
 .event-left1-left-pos ul li{
@@ -862,7 +862,7 @@ span.color2{
 }
 .event-left1-left-pos ul li a{
 	font-size: 1em;
-    color: #fff;
+    color: #3D2B99;
     text-decoration: none;
     padding-left: 2em;
 }
@@ -870,7 +870,7 @@ span.color2{
 	left:-.5em;
 }
 .event-left1-left-pos ul li a:hover{
-	color:#000;
+	opacity: 0.5;
 }
 .event-left1-right{
 	padding-right:0;
