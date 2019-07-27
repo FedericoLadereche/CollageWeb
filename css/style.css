@@ -179,7 +179,7 @@ span.color2{
 	-ms-background-size:cover;
 }
 .services-grid-right-grid2{
-	background:url(../images/Collage_wall_painting.jpg) no-repeat 0px 0px;
+	background:url(../images/inside.jpeg) no-repeat 0px 0px;
 	background-size:contain;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1232,9 +1232,9 @@ nav.paging1{
 	color:#FF5A56;
 }
 .services-grids1-grid h4 a{
-	text-transform:capitalize;
+	/*text-transform:capitalize;*/
 	font-size:1em;
-	color:#FF5A56;
+	color:#00A65B;
 	margin:1em 0;
 	text-decoration:none;
 	display:block;
