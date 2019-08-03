@@ -857,6 +857,7 @@ span.color2{
     background:#00A65B;
     padding: .5em;
 }
+
 .event-left1-left-pos ul li{
 	display:inline-block;
 }
@@ -872,6 +873,32 @@ span.color2{
 .event-left1-left-pos ul li a:hover{
 	opacity: 0.5;
 }
+
+.event-left1-left-pos-inscripciones{
+	position: absolute;
+    bottom: 0%;
+    left: 0%;
+    width: 73.2%;
+    background:#00A65B;
+    padding: .5em;
+}
+
+.event-left1-left-pos-inscripciones ul li{
+	display:inline-block;
+}
+.event-left1-left-pos-inscripciones ul li a{
+	font-size: 1em;
+    color: #3D2B99;
+    text-decoration: none;
+    padding-left: 2em;
+}
+.event-left1-left-pos-inscripciones ul li a span{
+	left:-.5em;
+}
+.event-left1-left-pos-inscripciones ul li a:hover{
+	opacity: 0.5;
+}
+
 .event-left1-right{
 	padding-right:0;
 	margin: 2em 0 0;
