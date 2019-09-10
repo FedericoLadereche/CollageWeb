@@ -167,7 +167,7 @@ span.color2{
 }
 /*-- //header --*/
 /*-- banner --*/
-.services-grid-right-grid1,.services-grid-right-grid2,.services-grid-right-grid3{
+.services-grid-right-grid1,.services-grid-right-grid2,.services-grid-right-grid3,.services-grid-right-grid4,.services-grid-right-grid5{
 	min-height:600px;
 }
 .services-grid-right-grid1{
@@ -188,6 +188,22 @@ span.color2{
 }
 .services-grid-right-grid3{
 	background:url(../images/Jardín_Collage_backyard.jpg) no-repeat 0px 0px;
+	background-size:contain;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+}
+.services-grid-right-grid4{
+	background:url(../images/Jardin_Collage_Foto_Inscripciones/inscripciones1.jpeg) no-repeat 0px 0px;
+	background-size:contain;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+}
+.services-grid-right-grid5{
+	background:url(../images/Jardin_Collage_Foto_Inscripciones/inscripciones2.jpeg) no-repeat 0px 0px;
 	background-size:contain;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
