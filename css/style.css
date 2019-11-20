@@ -1587,7 +1587,7 @@ h2.typoh2{
 /*-- //gallery --*/
 /*-----start-responsive-design------*/
 @media (max-width:1366px){
-	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3 {
+	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3, .services-grid-right-grid4, .services-grid-right-grid5 {
 		min-height: 430px;
 	}
 }
@@ -1603,7 +1603,7 @@ h2.typoh2{
 	.navbar-nav > li > a {
 		padding: 20px 36.2px;
 	}
-	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3 {
+	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3, .services-grid-right-grid4, .services-grid-right-grid5 {
 		min-height: 360px;
 	}
 	.banner-left1-grid .read-more {
@@ -1734,7 +1734,7 @@ h2.typoh2{
 	.event-meta p {
 		font-size: 13px;
 	}
-	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3 {
+	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3, .services-grid-right-grid4, .services-grid-right-grid5 {
 		min-height: 280px;
 	}
 	.banner-bottom-grid h3, .services-grid-right h3 {
@@ -2285,7 +2285,7 @@ h2.typoh2{
 	.mail-grid-left-pos {
 		width: 60%;
 	}
-	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3 {
+	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3, .services-grid-right-grid4, .services-grid-right-grid5 {
 		min-height: 230px;
 	}
 }
@@ -2406,7 +2406,7 @@ h2.typoh2{
 		float: none;
 		width: 100%;
 	}
-	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3 {
+	.services-grid-right-grid1, .services-grid-right-grid2, .services-grid-right-grid3, .services-grid-right-grid4, .services-grid-right-grid5 {
 		min-height: 165px;
 	}
 	.banner-bottom-grid h3, .services-grid-right h3 {
